@@ -18,7 +18,7 @@
 🔧 Hack
 ```
 #
-<h1 align="center">STATS FOR NERDS</h1>
+<h1 align="center">🔥MY STAT🔥</h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/MonsterCracK?style=social">
   <img src="https://img.shields.io/github/stars/MonsterCracK?style=social">
