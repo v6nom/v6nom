@@ -20,12 +20,12 @@
 <h2 align="center">Technology Stack <img src="https://github.com/v6nom/v6nom/blob/main/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="20"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
@@ -63,4 +63,3 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=v6nom&theme=redical">
 </p> 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
