@@ -40,7 +40,7 @@ I am a young passionate about cybersecurity and IT in general. I mainly program 
 </br>
 
 <a href="https://github.com/v6nom">
-  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v6nom&show_icons=true&theme=tokyonight)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=v6nom&show_icons=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/v6nom">
