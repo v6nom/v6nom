@@ -1,32 +1,51 @@
-<h1 align="center">💫MONSTER_CRACK💫</h1>
+<img align='right' src="https://github.com/loTus04/loTus04/blob/main/img/Webp.net-resizeimage.gif">
 
-<p align="center">
-  <b>⚡Rejoint moi ici: </b><br>
-  <a href="https://discord.gg/38RDuy38fk">Discord</a> |
-  <a href="https://www.youtube.com/channel/UCeCFsebF0MTpTxidrFEskkw">YouTube</a> |
-  <a href="https://github.com/Its-Vichy">Github</a>
-  <br><br>
-  <img src="https://cdn.discordapp.com/attachments/793947157022900224/863069652443332639/standard_1.gif">
-  <br><br>
-  <img src="https://discord.c99.nl/widget/theme-3/685901239384277085.png">
-</p>
+# Hellooooo there! <img src="https://github.com/loTus04/loTus04/blob/main/img/wave.gif" width="30px">
+I am a young passionate about cybersecurity and IT in general. I mainly program in python. 
+</br>
 
-#
-```diff
-⚡ FrenchCoder
-💎 Monster_crack@protonmail.com
-🔧 Hack
-💉@venaxytb
-```
-#
-<h1 align="center">🔥MY STAT🔥</h1>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MonsterCracK?style=social">
-  <img src="https://img.shields.io/github/stars/MonsterCracK?style=social">
-  <img src="https://komarev.com/ghpvc/?username=MonsterCracK&color=red">
-</p>
+</br>
+</br>
+</br>
+</br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=monstercrack">
+# :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 Python developer
+- 💼 15 years
+- 🇫🇷 French
+- 🎮 Gamer
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=MonsterCracK&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515%22%20alt=%22MonsterCracK%27s%20stats" /> </p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterCracK&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
+## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
+- 👨‍💻 TryHackMe : [Click](https://tryhackme.com/p/loTus)
+- 🧠 Root-Me : [Click](https://www.root-me.org/loTus01)
+- 📦 HackTheBox : [Click](https://app.hackthebox.eu/profile/393384)
+- 💬 Discord : v6nom#7962
+
+
+## 🏆 Skills and Tools
+- ![](https://img.shields.io/badge/DEV-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/DEV-Batch-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/DEV-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=FF0000)
+- ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=FF0000)
+- ![](https://img.shields.io/badge/OS-Parrot-informational?style=flat&logo=linux&logoColor=white&color=FF0000)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/xiaotox-devfr?tab=followers">
+  <img src="https://img.shields.io/github/followers/loTus04">
+</a>
+
+<a href="https://github.com/loTus04">
+   <img src="https://komarev.com/ghpvc/?username=loTus04">
+</a>
+</br>
+
+<a href="https://github.com/loTus04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loTus04&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" />
+</a>
+
+<a href="https://github.com/MonsterCracK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MonsterCracK&show_icons=true&line_height=27&count_private=true&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" alt="v6nom's GitHub Stats" />
+</a> 
+
