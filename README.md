@@ -42,8 +42,3 @@ I am a young passionate about cybersecurity and IT in general. I mainly program 
 <a href="https://github.com/v6nom">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=v6nom&show_icons=true&theme=tokyonight" />
 </a>
-
-<a href="https://github.com/v6nom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=v6nom&show_icons=true&line_height=27&count_private=true&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" alt="v6nom's GitHub Stats" />
-</a> 
-
