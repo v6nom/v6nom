@@ -24,25 +24,23 @@ I am a young passionate about cybersecurity and IT in general. I mainly program 
 
 ## 🏆 Skills and Tools
 - ![](https://img.shields.io/badge/DEV-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-- ![](https://img.shields.io/badge/DEV-Batch-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
-- ![](https://img.shields.io/badge/DEV-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 - ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=FF0000)
 - ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=FF0000)
 - ![](https://img.shields.io/badge/OS-Parrot-informational?style=flat&logo=linux&logoColor=white&color=FF0000)
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/xiaotox-devfr?tab=followers">
+<a href="https://github.com/v6nom">
   <img src="https://img.shields.io/github/followers/v6nom">
 </a>
 
-<a href="https://github.com/loTus04">
+<a href="https://github.com/v6nom">
    <img src="https://komarev.com/ghpvc/?username=v6nom">
 </a>
 </br>
 
 <a href="https://github.com/v6nom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v6nom&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" />
+  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v6nom&show_icons=true&theme=tokyonight)" />
 </a>
 
 <a href="https://github.com/v6nom">
