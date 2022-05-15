@@ -63,3 +63,4 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=v6nom&theme=redical">
 </p> 
 <hr>
+<img align='center' src="https://github.com/loTus04/loTus04/blob/main/img/Webp.net-resizeimage.gif">
