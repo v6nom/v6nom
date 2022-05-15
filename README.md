@@ -6,10 +6,10 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+ <img src="https://badges.pufler.dev/visits/v6nom/v6nom"/> 
+ <!-- <img src="https://badges.pufler.dev/years/v6nom"/> -->
+ <img src="https://badges.pufler.dev/repos/v6nom"/>
+ <img src="https://badges.pufler.dev/commits/monthly/v6nom" />
 
 </p>
 
