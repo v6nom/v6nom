@@ -64,5 +64,5 @@
 </p> 
 <hr>
 <p align = "center">
-<img src="https://github.com/loTus04/loTus04/blob/main/img/Webp.net-resizeimage.gif">
+<img src="https://github.com/v6nom/assets/blob/main/cyberpunk.gif">
  </p>
